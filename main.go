@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Iniciando o Servidor Rest com Go")
+	fmt.Println("Starting API REST using Go")
 	routes.HandleRequest()
 }
